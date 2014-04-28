@@ -25,4 +25,4 @@ Layout the answer section
 
 You can set the cells sizes and also replace the roundedSquareCell.png is desired
 
-![alt tag](http://imgur.com/9gYvdnq)
+![alt tag](http://i.imgur.com/9gYvdnq.png)
